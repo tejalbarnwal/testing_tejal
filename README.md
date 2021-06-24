@@ -10,3 +10,5 @@
 1. in a new terminal do `roslaunch px4 mavros_posix_sitl.launch vehicle:=iris_rplidar'
 1. in a seperate terminal do `rosrun testing_tejal relative_local_setpoint.py`
 1. in a seperate terminal do `rosrun testing_tejal raster.py`
+1. run `rviz` too and visualize the lidar data
+1. record the screen if possible
