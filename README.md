@@ -2,7 +2,7 @@
 ## temporary repo
 
 ## Steps to Run Locally
-1. Follow all the [installation](installation/) steps
+
 1. `cd ~/catkin_ws/src/`
 1. `git clone https://github.com/tejalbarnwal/testing_tejal.git (https)`  
  
